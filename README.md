@@ -1,4 +1,4 @@
 # Stock-Tradins-Insights-Web-Scraper
-The scripts web scrape insider trading information and generate tidy csv files for data analysis
+The scripts extract insider trading information from the internet and generate tidy csv files for data analysis
 
 
